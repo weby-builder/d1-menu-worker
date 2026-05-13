@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-menu-worker",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "0400c3ec-b5f7-4a19-bf15-4f0efc667292",
+			"database_name": "bistro-menu"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
